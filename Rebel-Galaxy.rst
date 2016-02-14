@@ -41,7 +41,7 @@ experience, and you wouldn't be wrong.
 Graphics
 --------
 
-The game has amazing graphics, recommended requirments are:
+The game has amazing graphics, recommended requirements are:
 
 	- CPU:		Intel Core 2 Duo 2.4 GHz
 	- RAM:		4 GB
@@ -119,10 +119,12 @@ Conclusion
 
 All of the previous reasons culminate into a nearly perfect game. You will need
 spend hours doing trade missions to purchase a ship decked out enough that 
-wouldbe able to complete the story mission. The story missions, beautiful 
+would be able to complete the story mission. The story missions, beautiful 
 graphics, a rocking soundtrack, complex commodity trading scheme and awesome 
 ship design come together to create an awesome game that I recommend for anyone 
 to play.
 (It can be found on Steam, Xbox One, and the PS4)
+
+
 
 
