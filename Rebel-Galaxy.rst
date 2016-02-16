@@ -6,7 +6,7 @@ Rebel Galaxy:
 #############
 
 ******************************************************************************	
-The space RPG we all Were waiting for.
+The space RPG we all were waiting for.
 ******************************************************************************
 **Author**: William Cole
 **Date**: 02/13/2016
